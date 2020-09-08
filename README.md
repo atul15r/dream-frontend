@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Steps to Run the project
+
+- install all the required dependencies from root directory using command `npm install` or `npm i`
+- start project using command `npm start` from root directory
+
+<div style="display:flex;width:auto;height:auto;">
+  <img src="screenshots/img1.gif" width="100%" height="auto"/>
+    <img src="screenshots/img2.png" width="100%" height="auto"/>
+
+<div>
+
 ## Available Scripts
 
 In the project directory, you can run:
